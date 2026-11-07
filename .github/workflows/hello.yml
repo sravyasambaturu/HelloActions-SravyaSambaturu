@@ -38,7 +38,7 @@ jobs:
       # Run the program and pass the name in as an environment variable.
       - name: Run the Python program
         env:
-          WHO_TO_GREET: 'GitHub Actions Student'
+          WHO_TO_GREET: 'Sravya - SWE 525 Student'
         run: python hello.py
 
       # Optional challenge: print the current date and time in the log.
