@@ -19,7 +19,3 @@ A simple Hello World project that runs a Python program with GitHub Actions.
 **Where to see the output:** In the Actions tab, open the workflow run, open the job, and expand the "Run the Python program" step in the log.
 
 **Workflow, job, and step:** A workflow is the whole automated process defined in one YAML file. A job is a group of steps that runs on one runner. A step is a single task inside a job, either an action (`uses`) or a shell command (`run`).
-
-## AI use
-
-I used Claude (an AI assistant) to help me understand the lab instructions. I created the repository, wrote the code, ran the workflow both automatically and manually, and checked the output myself.
