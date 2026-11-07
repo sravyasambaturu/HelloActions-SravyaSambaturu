@@ -40,3 +40,7 @@ jobs:
         env:
           WHO_TO_GREET: 'GitHub Actions Student'
         run: python hello.py
+
+      # Optional challenge: print the current date and time in the log.
+      - name: Show the current date and time
+        run: date
